@@ -9,32 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+Incremental analysis, Pointer analysis, Program analysis, Concurrent and Distributed System, Program Testing and Debugging.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Vehicle Engineering, Beijing Institute of Technology, 2011
+* M.E. in Mechanical Engineering, Cornell University, 2013
+* Ph.D in Computer Science, Texas A&M University, 2020 (expected)
 
 Publications
 ======
@@ -42,18 +25,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Honors & Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* PLMW@PLDI'18 scholarship
+
+Teaching Experience
+======
+* Teaching assistant for CSCE 110: Programming I, Texas A&M University. (Fall.2017)
+* Teaching assistant for CSCE 222: Discrete Structures for Computing, Texas A&M University. (Spring.2017)
+
+Service
+======
+* Reviewer - Artifact Evaluation Committee (AEC) for CGO'18
+* Sub-reviewer - ICSE'19, LCPC'18, PLDI'17, PPoPP'17, FSE'16
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Language: Java, C/ C++, Python, Ruby, JavaScript, CSS
+* Framework/Application: WALA, Eclipse
+* Operating System: UNIX, Linux
