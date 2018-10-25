@@ -47,5 +47,5 @@ Service
 Skills
 ======
 * Programming Language: Java, C/ C++, Python, Ruby, JavaScript, CSS
-* Framework/Application: WALA, Eclipse
+* Framework/Application: WALA, Eclipse, Intellij, Visual Studio Code
 * Operating System: UNIX, Linux
