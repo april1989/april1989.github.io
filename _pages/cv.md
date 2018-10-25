@@ -41,7 +41,7 @@ Teaching Experience
 
 Service
 ======
-* Reviewer - Artifact Evaluation Committee (AEC) for CGO'18
+* Artifact Evaluation Committee - Artifact Evaluation Committee (AEC) for CGO'18
 * Sub-reviewer - ICSE'19, LCPC'18, PLDI'17, PPoPP'17, FSE'16
   
 Skills
